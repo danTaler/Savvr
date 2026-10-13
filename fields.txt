@@ -1,0 +1,5 @@
+1425002961	Loan Repayment, LN REPAY 786442459		-670	AUD	2025-10-13	2025-10-13	xxx-xxx xxxx9363	Everyday Offset	debit	payment	CommBank	Unknown	lifestyle	Transfer Between Accounts			TRUE								
+1425002963	Loan Repayment, LN REPAY 786442440		-974	AUD	2025-10-13	2025-10-13	xxx-xxx xxxx9363	Everyday Offset	debit	payment	CommBank	Unknown	lifestyle	Transfer Between Accounts			TRUE								
+1425476292	UBER EATS		-0.5	AUD	2026-10-11		xxxx1002	American Express Velocity Platinum Card	debit		American Express	Ubereats	lifestyle	Takeaway & Snacks			TRUE								
+1425476293	SYDNEY SPORTS ORTHOPAEDIC PHYS		-52	AUD	2026-10-11		xxxx1002	American Express Velocity Platinum Card	debit		American Express	Unknown	lifestyle	Uncategorised			TRUE								
+1425485934	DIRECT DEBIT I TALER          To 359039903		-4083.33	AUD	2026-10-05	2026-10-05	x xxxx 2324	ING Australia Residential Mortgage	debit	direct_debit	ING	Unknown	lifestyle	Uncategorised			TRUE								
